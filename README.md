@@ -1,2 +1,2 @@
-# Compiler-MiniC
-Compiler of a little version of C - Compilador de versión reducida de C - Asignatura LPPL 2023
+# compiladorLPPL
+Nuestro compilador Asignatura LPPL 2023
